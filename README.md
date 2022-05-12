@@ -2,11 +2,11 @@
 	<main>
 		<div class="content-wrapper">
 			<div class="content-inner">
-				<h2>Magento 2 GDPR Extension</h2>
+				<h1>Magento 2 GDPR Extension</h1>
 				<p><strong><a href="https://www.mageants.com/gdpr-for-magento-2.html">Magento 2 GDPR Extension</a></strong> helps in strengthening the privacy and security of the website data. Apart from this, it also gives access to the important consents to help survive and beat the competition.</p>
 				<p>Magento 2 GDPR Extension works with the new legislative requirements of the EU to make sure that online stores comply with it or not.</p>
 				<div class="features-wrapper">
-					<h3>Key Features</h3>
+					<h2>Key Features</h2>
 					<ul>
 						<li>Allow to gather the user's consent on checkout, contact us, and registration pages.</li>
 						<li>Helps in updating, creating, and deleting the privacy policy in a single place.</li>
